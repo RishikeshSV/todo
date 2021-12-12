@@ -1,0 +1,24 @@
+.main {
+  max-width: 60%;
+  margin: auto;
+  text-align: center;
+}
+tbody {
+  overflow-wrap: anywhere;
+}
+.header {
+  letter-spacing: 2px;
+}
+form {
+  font-size: 1.2em;
+  letter-spacing: 2px;
+}
+.form-title {
+  text-align: -webkit-center;
+}
+.submit-button {
+  width: 40%;
+}
+.task-item {
+  width: 60%;
+}
